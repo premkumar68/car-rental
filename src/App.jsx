@@ -8,10 +8,10 @@ import CarDetails from "./pages/CarDetails";
 import Cars from "./pages/Cars";
 import MyBookings from "./pages/MyBookings";
 import Layout from "./pages/Owner/Layout";
-import Dashboard from "./pages/owner/Dashboard";
-import AddCar from "./pages/owner/AddCar";
-import ManageCars from "./pages/owner/ManageCars";
-import ManageBookings from "./pages/owner/ManageBookings";
+import Dashboard from "./pages/Owner/DashBoard";
+import AddCar from "./pages/Owner/AddCar";
+import ManageCars from "./pages/Owner/ManageCars";
+import ManageBookings from "./pages/Owner/ManageBookings";
 import Login from "./components/Login";
 
 const App = () => {
